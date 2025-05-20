@@ -4,3 +4,6 @@ To receive the saved data it will be stored in one directory above the microserv
 
 The executable file contains the executable and files needed to run it.
 The code file contains the code with the ability to build if modifications are needed.
+
+UML sequence diagram
+![UML Diagram](UMLimage/UML.png)
