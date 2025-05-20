@@ -4,7 +4,7 @@ To request data to be encrypted and saved you must connect to tcp://localhost:54
 
 To receive the saved data it will be stored in one directory above the microservice in a file called saveData.txt. They can read this data by opening the file using any of the numerous ways to read files Ex: "open("saveData.txt", "r")". Additionally while in the TCP connection to receive data they must call “requester.ReceiveFrameString()” or a similar TCP receive. 
 
-You can either download the executable files which only contains the executable and files needed to run it, or code file contains the code with the ability to build if modifications are needed.
+You can either download MicroserviceAExecutable which only contains the executable and files needed to run it, or MicroserviceACode which contains the code with the ability to build if modifications are needed.
 
 UML sequence diagram
 ![UML Diagram](UMLimage/UML.png)
