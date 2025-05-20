@@ -22,7 +22,6 @@ class Program
         string saveFile = Path.Combine(targetDir, "saveData.txt");                                          //combine path with fileName
 
         //Console.WriteLine($"File written successfully! Path: {Path.GetFullPath(saveFile)}");              //Writes save path
-        string temp = EncryptString("test", key, iv);
         using (var responder = new ResponseSocket("@tcp://localhost:5454"))                                 //start connection
         {
             while (true)                                                                                    //connection loop, runs until server shuts down
