@@ -8,9 +8,9 @@ To receive the saved data it will be stored in one directory above the microserv
 
 To use the microservice, there are two options: an executable located in the file MicroserviceAExecutable, or the microservice along with all of its code in MicroserviceACode.
 
-With the executable you just download the entire file and click on MicroserviceA.exe. This will launch and have the microservice be running in the terminal. 
+With the executable you just download the entire MicroserviceAExecutable file and once downloaded click on MicroserviceA.exe. This will launch and have the microservice be running in the terminal. 
 
-For the MicroserviceACode it works best if you open the MicroserviceA.sln with visual studio. When it launches you will then be able to modify any code in the microservice. To build and run the microservice you can do so by pressing the green arrow at the top of visual studio 
+For the MicroserviceACode once downloaded it works best if you open the MicroserviceA.sln with visual studio. When it launches you will then be able to modify any code in the microservice. To build and run the microservice you can do so by pressing the green arrow at the top of visual studio. This will launce the build in terminal and you can close it by pressing the red button where the green arrow was, or by closing the terminal. 
 
 
 # UML sequence diagram
