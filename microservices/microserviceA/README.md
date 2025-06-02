@@ -15,3 +15,11 @@ For the MicroserviceACode once downloaded it works best if you open the Microser
 
 # UML sequence diagram
 ![UML Diagram](UMLimage/UML.png)
+
+Unity store assets used:
+https://assetstore.unity.com/packages/2d/textures-materials/wood/stylized-wood-textures-213607#reviews
+https://assetstore.unity.com/packages/3d/props/exterior/pbr-barrels-and-crates-34608
+https://assetstore.unity.com/packages/3d/environments/landscapes/terrain-sample-asset-pack-145808
+https://assetstore.unity.com/packages/3d/environments/urban/furnished-cabin-71426
+https://assetstore.unity.com/packages/3d/vegetation/plants/yughues-free-bushes-13168
+https://assetstore.unity.com/packages/3d/vegetation/trees/european-forests-realistic-trees-229716
