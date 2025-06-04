@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y4q389GRGBE=",
+  "success": true,
+  "projectFilePath": "C:\\File Folder\\OSU Classes\\Software Engin 1\\MicroserviceB\\MicroserviceB\\MicroserviceB\\MicroserviceB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\John\\.nuget\\packages\\asyncio\\0.1.69\\asyncio.0.1.69.nupkg.sha512",
+    "C:\\Users\\John\\.nuget\\packages\\microsoft.extensions.objectpool\\8.0.10\\microsoft.extensions.objectpool.8.0.10.nupkg.sha512",
+    "C:\\Users\\John\\.nuget\\packages\\nacl.net\\0.1.13\\nacl.net.0.1.13.nupkg.sha512",
+    "C:\\Users\\John\\.nuget\\packages\\netmq\\4.0.1.15\\netmq.4.0.1.15.nupkg.sha512",
+    "C:\\Users\\John\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.1\\system.security.cryptography.pkcs.8.0.1.nupkg.sha512",
+    "C:\\Users\\John\\.nuget\\packages\\system.security.cryptography.xml\\8.0.2\\system.security.cryptography.xml.8.0.2.nupkg.sha512",
+    "C:\\Users\\John\\.nuget\\packages\\system.servicemodel.primitives\\8.1.1\\system.servicemodel.primitives.8.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
